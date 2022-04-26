@@ -2,8 +2,8 @@
 #include "NFC.h"
 #include <String.h>
 
-#define DMXADRESS "512"
-#define DMXMODE "10"
+#define DMXADRESS "1"
+#define DMXMODE "1"
 
 
 String data = {"1;1"};
